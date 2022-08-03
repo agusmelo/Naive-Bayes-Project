@@ -1,1 +1,3 @@
-# Template for Machine Learning projects
+# Naive Bayes Project 
+**app.py** -> Model pipeline
+**explore.ipynb** -> Performance showcase 
